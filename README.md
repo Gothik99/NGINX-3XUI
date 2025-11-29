@@ -29,17 +29,6 @@
 bash <(curl -Ls https://raw.githubusercontent.com/Gothik99/NGINX-3XUI/main/install.sh)
 ```
 
-Или клонируйте репозиторий и запустите вручную:
-
-```bash
-git clone https://github.com/Gothik99/NGINX-3XUI.git
-cd NGINX-3XUI
-chmod +x install.sh
-sudo ./install.sh
-```
-
----
-
 ## 📚 Инструкция по сценариям
 
 ### 🛡️ Сценарий 1: Relay-сервер (например, в РФ)
@@ -84,6 +73,15 @@ sudo ./install.sh
    ```
 
 ---
+Пример WebSocket (WS) и Пример gRPC
+
+
+<img width="407" height="864" alt="Снимок экрана 2025-11-29 163048" src="https://github.com/user-attachments/assets/504a3df7-7a6a-4655-8cdd-ced0f7db3570" /> 
+
+
+ 
+<img width="458" height="902" alt="Снимок экрана 2025-11-29 163022" src="https://github.com/user-attachments/assets/ae474b17-ce4f-4d33-888b-7d73547e5a87" /> 
+
 
 ## 🛠️ Добавление новых маршрутов
 
